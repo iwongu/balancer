@@ -22,7 +22,7 @@ double gyZero = 0.0;
 double angleZero = 0.0;
 double complementaryAngle = 0.0;
 double lastAngle = 0.0;
-double angleSum;
+double angleSum = 0.0;
 
 long timer;
 
